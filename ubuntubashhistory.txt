@@ -1,0 +1,157 @@
+sudo apt-get install python3
+python3
+cd /root/
+mkdir curvature
+cd curvature/
+git clone https://github.com/adamfranco/curvature.git
+cd curvature/
+sudo apt install python3.10-distutils
+cd /usr/bin/python3
+/usr/bin/python3
+sudo apt-get update
+sudo apt-get install build-essential
+cd ~
+ls
+mkdir python3.5
+cd python3.5/
+wget https://www.python.org/ftp/python/3.5.0/Python-3.5.0.tgz
+tar -xvzf Python-3.5.0.tgz
+cd Python-3.5.0
+./configure
+make
+sudo make install
+ls /usr/bin/python*
+python3.5
+cd ~
+wget https://github.com/osmcode/libosmium/archive/v2.10.2.tar.gz
+tar xzf v2.10.2.tar.gz
+cd  libosmium-2.10.2/
+mkdir build
+cd build
+cmake -g INSTALL_PROTOZERO ../
+make && make install
+ls
+apt install cmake
+cmake -g INSTALL_PROTOZERO ../
+cmake -DINSTALL_PROTOZERO=ON ../
+cd ~
+mkdir boost
+cd boost/
+wget https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.gz
+tar xzf boost_1_82_0.tar.gz
+ls
+cd boost_1_82_0/
+ls
+mv * ..
+ls
+cd ..
+ls
+vim README.md
+INSTALL
+./INSTALL
+cd boost
+ls
+cd..
+cd ..
+ls
+cd libosmium-2.10.2/
+cmake -DINSTALL_PROTOZERO=ON ../
+ls
+cd build/
+cmake -DINSTALL_PROTOZERO=ON ../
+ls
+cd CMakeFiles/
+ls
+cd 3.22.1/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+vim CMakeLists.txt
+sudo apt-get install libboost-all-dev
+cmake -DINSTALL_PROTOZERO=ON ../
+ls
+cd build/
+cmake -DINSTALL_PROTOZERO=ON ../
+pip install osmium
+python -m ensurepip --upgrade
+python3 -m ensurepip --upgrade
+python3.5 -m ensurepip --upgrade
+apt install python3-pip
+pip install osmium
+pip install msgpack-python
+cd ~
+ls
+cd curvature/
+ls
+cd curvature/
+mv * ..
+ls
+cd curvature/
+ls
+mv * ..
+cd ..
+mv * ..
+ls
+cd curvature/
+ls
+cd ..
+ls
+rm curvature/ -R
+ls
+./processing_chains/adams_default.sh
+sudo apt-get install bash-completion
+which pushd
+sudo dpkg-reconfigure dash
+which pushd
+./processing_chains/adams_default.sh
+./processing_chains/adams_default.sh -h
+ls
+cd test/
+ls
+cd ..
+ls
+cd bin/
+ls
+cd ..
+ls
+find py.test
+py.test
+cd processing_chains/
+ls
+./adams_default.sh -h
+./adams_default.sh -v /mnt/c/Users/localadmin/
+./adams_default.sh -v /mnt/c/Users/localadmin/Downloads/RFCC_UNIFIED_VERSION_001.osm
+vim adams_default.sh
+python
+alias python='python3'
+python
+./adams_default.sh -v /mnt/c/Users/localadmin/Downloads/RFCC_UNIFIED_VERSION_001.osm
+ls -l /usr/bin/python
+ls -l /usr/bin/
+cp /usr/bin/python3 /usr/bin/python
+ls -l /usr/bin/
+python
+sudo ln -s /usr/bin/python3.10 /usr/bin/python
+rm /usr/bin/python
+sudo ln -s /usr/bin/python3.10 /usr/bin/python
+./adams_default.sh -v /mnt/c/Users/localadmin/Downloads/RFCC_UNIFIED_VERSION_001.osm
+python
+cd ..
+./processing_chains/adams_default.sh -v /mnt/c/Users/localadmin/Downloads/RFCC_UNIFIED_VERSION_001.osm
+./processing_chains/adams_default.sh -h
+ls
+cd..
+cd ..
+mv curvature/ curvatureold/
+git clone https://github.com/adamfranco/curvature.git
+cd curvature
+./processing_chains/adams_default.sh -h
+./processing_chains/adams_default.sh -v /mnt/c/Users/localadmin/Downloads/RFCC_UNIFIED_VERSION_001.osm
+sudo apt-get install zip
+./processing_chains/adams_default.sh -v /mnt/c/Users/localadmin/Downloads/RFCC_UNIFIED_VERSION_001.osm
+ls
+history
